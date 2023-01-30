@@ -1,0 +1,22 @@
+title: "GADV 8003 - Game AI"
+description: "Game AI"
+
+url: "https://github.com/eugkenny/GADV8003" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/GADV8003" # the subpath of your site, e.g. /blog
+
+githublink: "https://github.com/eugkenny/GADV8003"
+githubdir: "eugkenny"
+
+# Author/user information
+email: eugkenny.lit@gmail.com
+# twitter_username: tweet_tweet
+github_username: eugkenny
+authorurl: "https://eugkenny.github.io"
+address:
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+include: ['assets']

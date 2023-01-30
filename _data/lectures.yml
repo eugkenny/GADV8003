@@ -1,0 +1,109 @@
+#- title: "Sample .Rmd File"
+#  filename: Untitled
+#  dirname: untitled-lecture
+#  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+
+- title: "Lecture 1: Graphs"
+  filename: Algs - Lecture 01 - Graph Theory.pdf
+  dirname: lectures
+  tldr: "Basic concept of graphs, Graph representation"
+
+- title: "Lecture 2: Graph Search"
+  filename: Algs - Lecture 02 - Graphs - Searching.pdf
+  dirname: lectures
+  tldr: "Breadth First Search, Depth First Search"
+
+- title: "Lecture 3: Minimum Spanning Trees"
+  filename: Algs - Lecture 03 - Graphs - Minimum Spanning Trees.pdf
+  dirname: lectures
+  tldr: "Prim's Algorithm, Kruskal's Algorithm"
+
+- title: "Lecture 4: Shortest Paths"
+  filename: Algs - Lecture 04 - Graphs - Shortest Paths.pdf
+  dirname: lectures
+  tldr: "Dijkstra's Algorithm"
+
+- title: "Lecture 5: Network Flows"
+  filename: Algs - Lecture 05 - Graphs - Maximum Flow.pdf
+  dirname: lectures
+  tldr: "Maxflow, mincut, Ford-Fulkerson Algorithm"
+
+- title: "Lecture 6: Reductions"
+  filename: Algs - Lecture 06a - Reductions.pdf
+  dirname: lectures
+  tldr: "Reductions, Lower bounds, Classifying problems"
+
+- title: "Lecture 7: Linear Programming"
+  filename: Algs - Lecture 06b - Linear Programming.pdf
+  dirname: lectures
+  tldr: "Simplex Algorithm, reductions"
+
+- title: "Lecture 8: Intractability"
+  filename: Algs - Lecture 07 - Intractability.pdf
+  dirname: lectures
+  tldr: "Intractability, search problems, P vs NP, NP-completeness, dealing with intractability"
+
+- title: "Lecture 9: Introduction to Artificial Intelligence"
+  filename: AI - Lecture 01 - Introduction.pdf
+  dirname: lectures
+  tldr: "What is AI?"
+
+- title: "Lecture 10: Problem Solving & Search 1"
+  filename: AI - Lecture 02 - Problem Solving & Search 1.pdf
+  dirname: lectures
+  tldr: "Search problems, state space, uniformed search"
+
+- title: "Lecture 11: Problem Solving & Search 2"
+  filename: AI - Lecture 03 - Problem Solving & Search 2.pdf
+  dirname: lectures
+  tldr: "Informed search, A*"
+
+- title: "Lecture 12: Local Search"
+  filename: AI - Lecture 04 - Local Search.pdf
+  dirname: lectures
+  tldr: "Local search problems, hill-climbing, simulated annealing, genetic algorithms"
+
+- title: "Lecture 13: Propositional Calculus 1"
+  filename: AI - Lecture 05 - Propositional Calculus 1.pdf
+  dirname: lectures
+  tldr: "Propositions and models, propositional syntax & semantics, entailment, inference"
+
+- title: "Lecture 14: Propositional Calculus 2"
+  filename: AI - Lecture 06 - Propositional Calculus 2.pdf
+  dirname: lectures
+  tldr: "Proof systems, resolution, proof by contradiction"
+
+- title: "Lecture 15: Predicate Calculus"
+  filename: AI - Lecture 07 - Predicate Calculus.pdf
+  dirname: lectures
+  tldr: "Limitations of propositional calculus, resolution"
+
+- title: "Lecture 16: Expert Systems"
+  filename: AI - Lecture 08 - Expert Systems.pdf
+  dirname: lectures
+  tldr: "Knowledge representation, reasoning, inference"
+
+- title: "Lecture 17: Reasoning about Actions"
+  filename: AI - Lecture 09 - Reasoning about Actions.pdf
+  dirname: lectures
+  tldr: "Situation calculus, Blocks world, frame problem"
+
+- title: "Lecture 18: Reasoning about Actions 2"
+  filename: AI - Lecture 10 - Reasoning about Actions 2.pdf
+  dirname: lectures
+  tldr: "STRIPS planning, regression planning"
+
+- title: "Lecture 19: Machine Learning"
+  filename: AI - Lecture 13 - Learning.pdf
+  dirname: lectures
+  tldr: "Kinds of learning"
+
+- title: "Lecture 20: Decision Tree Learning"
+  filename: AI - Lecture 14 - Decision Trees.pdf
+  dirname: lectures
+  tldr: "Classification and regression"
+
+- title: "Lecture 21: Neural Networks"
+  filename: AI - Lecture 15 - Neural Networks.pdf
+  dirname: lectures
+  tldr: "Units, links and activation functions, network structures"
