@@ -3,8 +3,17 @@
 #  dirname: untitled-lecture
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
-#- title: "Lecture 1: Graphs"
-#  filename: Algs - Lecture 01 - Graph Theory.pdf
-#  dirname: lectures
-#  tldr: "Basic concept of graphs, Graph representation"
+- title: "Lecture 1: Introduction to Game AI"
+  filename: 01 - Intro.pdf
+  dirname: lectures
+  tldr: "Game AI vs Traditional AI"
 
+- title: "Lecture 2: AI Game Architecture"
+  filename: 02 - gameArch.pdf
+  dirname: lectures
+  tldr: "Execution Management, World Interfacing"
+
+- title: "Lecture 3: Basic Movement"
+  filename: 03 - Basic Movement.pdf
+  dirname: lectures
+  tldr: "Kinematic & Dynamic Movement"
