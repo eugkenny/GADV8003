@@ -23,4 +23,9 @@
   dirname: lectures
   tldr: "Boids & Flocking"
 
+- title: "Lecture 5: Basic Pathfinding"
+  filename: 05 - Basic Pathfinding.pdf
+  dirname: lectures
+  tldr: "Graph construction & search, A*"
+
 
