@@ -28,4 +28,12 @@
   dirname: lectures
   tldr: "Graph construction & search, A*"
 
+- title: "Lecture 6: Intelligence I"
+  filename: 06 - Intelligence I.pdf
+  dirname: lectures
+  tldr: "Decision Trees, Finite State Machines, Behaviour Trees"
 
+- title: "Lecture 7: Intelligence II"
+  filename: 06 - Intelligence I.pdf
+  dirname: lectures
+  tldr: "More Behaviour Trees, Goul Oriented Behaviour, Uncertainty"
