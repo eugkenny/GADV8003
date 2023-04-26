@@ -34,6 +34,16 @@
   tldr: "Decision Trees, Finite State Machines, Behaviour Trees"
 
 - title: "Lecture 7: Intelligence II"
-  filename: 06 - Intelligence I.pdf
+  filename: 07 - Intelligence II.pdf
   dirname: lectures
   tldr: "More Behaviour Trees, Goul Oriented Behaviour, Uncertainty"
+
+- title: "Lecture 8: Learning"
+  filename: 08 - Learning I.pdf
+  dirname: lectures
+  tldr: "Types of Learning, Action Prediction"
+
+- title: "Lecture 9: Strategy"
+  filename: 09 - Strategy.pdf
+  dirname: lectures
+  tldr: "Tactical locations, Tactical Analysis, Coordinated Actions"
